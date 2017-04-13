@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/akabane25/wofle-bot/issues"
   },
-  "homepage": "https://github.com/akabane25/wofle-bot#readme"
+  "homepage": "https://github.com/akabane25/wofle-bot#readme",
+  "dependencies": {
+    "discord.js": "^11.0.0"
+  }
 }
